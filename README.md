@@ -65,7 +65,7 @@ Accuracy and Loss charts for the baseline model
 ### Augmented Model
 
 Accuracy and Loss charts for the augmented model
-![Alt text](augmented%20output.png)
+![Alt text](augumented%20output.png)
 
 ### Final Model
 
@@ -88,7 +88,7 @@ Augmenting the data and countering class imbalance helped in improving the accur
 
 # Contact
 
-Created by [@shivakumarravi] - feel free to contact me!
+Created by [@ShivakumarRavi] - feel free to contact me!
 
 # License
 
